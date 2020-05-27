@@ -12,7 +12,6 @@ let provider = ethers.getDefaultProvider("kovan");
 const web3 = new Web3(window.ethereum)
 
 function Wallet() {
-//   const [stage, setStage] = useState(2)
   const [stage, setStage] = useState(0)
   const [txProcessing, toggleTxProcessing] = useState(false)
 

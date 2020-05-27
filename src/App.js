@@ -36,8 +36,7 @@ const Explainers = [
 
 function App() {
   const [step, incrementStep] = useState(0)
-  const [stage, incrementStage] = useState(1)
-  // const [stage, incrementStage] = useState(0)
+  const [stage, incrementStage] = useState(0)
 
   const increment = () => {
     if(step < 4){
