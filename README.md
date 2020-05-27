@@ -6,6 +6,8 @@ Hedgr is a smart contract wallet designed for sophisticated staking and hedging.
 
 <a href="https://hedgr.now.sh/">Visit Hedgr</a>! 
 
+Make sure to allow a few moments for your balances to update as Hedgr reads data from the blockchain.
+
 ## To run
 - `npm install`
 - `npm start`
